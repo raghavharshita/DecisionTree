@@ -1,0 +1,13 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database files
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
